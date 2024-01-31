@@ -3,4 +3,4 @@
 21522509-Hoàng Anh Đức Đăng Quang  
 21522628-Phan Văn Thiện
 ## Giảng viên
-PGS.TS Phan Đình Duy
+PGS.TS Lê Đình Duy
